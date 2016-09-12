@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".HomeActivityFragment" >
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_50_80"
+        
+        android:background="@color/blue1" >
+
+        <TextView
+            android:id="@+id/title"
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="垃圾分类系统"
+            android:textColor="#000000"
+            android:textSize="@dimen/five_word" />
+
+        <ImageButton
+            
+        android:background="@color/blue1"
+            android:id="@+id/ib_return"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/height_10_80"
+            android:paddingBottom="@dimen/height_10_80"
+            android:layout_alignParentLeft="true"
+            android:paddingRight="@dimen/width_20_80"
+            android:paddingLeft="@dimen/width_20_80"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:src="@drawable/jiantou2_pressed"
+            android:onClick="back" />
+ <ImageButton
+            android:id="@+id/ib_twoweima"
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:onClick="twoweima"
+         
+            android:background="@drawable/twoweima"
+       />
+        
+    </RelativeLayout>
+
+</RelativeLayout>

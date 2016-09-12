@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\values-ldpi-v4\\values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 189,
+                        "endColumn": 43,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 45,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 17,
+                        "endColumn": 41,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 47,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 278,
+                        "endColumn": 43,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 44,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 236,
+                        "endColumn": 40,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 42,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 149,
+                        "endColumn": 38,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 46,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 60,
+                        "endColumn": 42,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 47,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 104,
+                        "endColumn": 43,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    }
+]

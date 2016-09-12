@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent" >
+
+    <TableLayout
+        android:id="@+id/tableLayout_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:id="@+id/tableRow_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:paddingBottom="@dimen/height_6_80"
+            android:paddingTop="@dimen/height_6_80" >
+
+            <TextView
+                android:id="@+id/textView_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/str_garbagenameLabel"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+
+            <TextView
+                android:id="@+id/textView_integral"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/str_garbageintegrallabel"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>

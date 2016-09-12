@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+
+    <Spinner
+        android:id="@+id/spinner_community"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:layout_marginBottom="@dimen/height_5_80"
+        android:background="@drawable/login_editbox"
+        android:text="@string/str_default"
+        android:textColor="@color/textColor"
+         />
+
+    <com.aimowei.Activity.garbage.ui.RefreshListView
+        android:id="@+id/listView_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinner_community"
+        android:background="@color/transparent"
+        android:divider="#2BA3EF"
+        android:dividerHeight="1sp"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word"
+        android:visibility="visible" >
+    </com.aimowei.Activity.garbage.ui.RefreshListView>
+    <!--
+    <ListView
+        android:id="@+id/listView_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinner_community"
+        android:background="@color/transparent"
+        android:divider="#2BA3EF"
+        android:dividerHeight="1sp"
+        android:visibility="visible"
+        android:textSize="@dimen/Two_word"
+        android:textColor="@color/textColor" >
+    </ListView>
+    -->
+	 <ScrollView
+        android:id="@+id/scrollView_detail"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_200_80"
+        android:layout_below="@id/spinner_community"
+        android:layout_centerHorizontal="true"
+        >
+    
+    <TextView
+        android:id="@+id/textView_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/transparent"
+        android:singleLine="false"
+        android:text="@string/str_default"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+    <!-- 以后或许可以改为网页 -->
+	</ScrollView>
+
+    <!-- 进度条和重试按钮,可复用 -->
+
+    <ProgressBar
+        android:id="@+id/progressBar_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/height_140_80"
+        android:textColor="@color/textColor"
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+
+    <Button
+        android:id="@+id/button_retry"
+        android:layout_width="@dimen/width_200_80"
+        android:layout_height="@dimen/height_35_80"
+        android:layout_below="@id/rl_title"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/height_140_80"
+        android:background="@drawable/button1seletor"
+        android:text="@string/str_retrylabel"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word"
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+	<Button
+        android:id="@+id/button_back"
+        android:layout_width="@dimen/width_200_80"
+        android:layout_height="@dimen/height_35_80"
+        android:layout_below="@id/scrollView_detail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_20_80"
+        android:background="@drawable/button1seletor"
+        android:text="@string/str_backlabel"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word"
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+    <TextView
+        android:id="@+id/textView_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/str_default"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word"
+        android:visibility="visible" />
+
+   
+
+</RelativeLayout>

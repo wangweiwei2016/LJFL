@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<shape  
+  xmlns:android="http://schemas.android.com/apk/res/android"
+     android:background="@drawable/toast_bg">  
+    <corners   
+        android:radius="8dp"  
+        />  
+ <!--    <padding   
+        android:left="5dp"  
+        android:top="5dp"  
+        android:right="5dp"  
+        android:bottom="5dp"  
+        />   -->
+    <solid   
+        android:color="#0F1418"  
+        />  
+      <!--    <stroke
+    android:dashGap="0dp"
+    android:width="4dp"
+    android:color="#727981" /> -->
+</shape> 

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aimowei.garbage"
+    android:versionCode="6"
+    android:versionName="3.2" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 必选 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- 【必选】用以设置前台是否显示通知 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <!-- 可选 -->
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_CHANGED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_INSTALL" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+;
+    <!-- Permission for Unit Test -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 【可选】如果需要设置前台是否显示通知，需要设置这个权限 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <!-- 可选 -->
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_CHANGED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_INSTALL" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- scan -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.screen.landscape" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:name="com.aimowei.Activity.App"
+        android:allowBackup="true"
+        android:icon="@drawable/icon111garbage"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- scan -->
+        <!--
+        <activity
+            android:name="com.google.zxing.client.android.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:stateNotNeeded="true"
+            android:theme="@style/Slide_in_out"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.SCAN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="zxing.appspot.com"
+                    android:path="/scan"
+                    android:scheme="http" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.google.com"
+                    android:path="/m/products/scan"
+                    android:scheme="http" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.google.co.uk"
+                    android:path="/m/products/scan"
+                    android:scheme="http" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="scan"
+                    android:path="/"
+                    android:scheme="zxing" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.PreferencesActivity"
+            android:label="@string/preferences_name"
+            android:stateNotNeeded="true" >
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.encode.EncodeActivity"
+            android:stateNotNeeded="true" >
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.ENCODE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/x-vcard" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.book.SearchBookContentsActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/sbc_name"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true" >
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.SEARCH_BOOK_CONTENTS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.share.ShareActivity"
+            android:screenOrientation="user"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.Light" >
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.SHARE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.history.HistoryActivity"
+            android:label="@string/history_title"
+            android:stateNotNeeded="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.share.BookmarkPickerActivity"
+            android:label="@string/bookmark_picker_name"
+            android:stateNotNeeded="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.PICK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.share.AppPickerActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_picker_name"
+            android:stateNotNeeded="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.PICK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.zxing.client.android.HelpActivity"
+            android:screenOrientation="user" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        -->
+        <!-- ******************************************UMENGpUSH******************************************************* -->
+        <!--
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_MESSAGE_SECRET"
+            android:value="" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Dianai" >
+        </meta-data>
+        !
+        -->
+        <!--
+        <receiver
+            android:name="com.umeng.message.NotificationProxyBroadcastReceiver"
+            android:exported="false"
+            android:process=":push" >
+        </receiver>
+        <receiver
+            android:name="com.umeng.message.SystemReceiver"
+            android:process=":push" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.umeng.message.MessageReceiver"
+            android:process=":push" >
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.umeng.message.ElectionReceiver"
+            android:process=":push" >
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.ELECTION_RESULT_V4" />
+
+                <category android:name="umeng" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.umeng.message.RegistrationReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.aimowei.dianai.intent.action.COMMAND" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.umeng.message.BootBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        -->
+        <!--
+        <service
+            android:name="com.umeng.message.UmengService"
+            android:exported="true"
+            android:label="U技能"
+            android:process=":push" >
+            <intent-filter>
+                <action android:name="com.aimowei.dianai.intent.action.START" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.aimowei.dianai.intent.action.COCKROACH" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.PING_V4" />
+
+                <category android:name="umeng" />
+            </intent-filter>
+        </service>
+        
+        <service
+            android:name="com.umeng.message.UmengIntentService"
+            android:process=":push" />
+        <service
+            android:name="com.umeng.message.UmengMessageIntentReceiverService"
+            android:exported="true"
+            android:process=":push" >
+            <intent-filter>
+                <action android:name="org.android.agoo.client.MessageReceiverService" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.android.agoo.client.ElectionReceiverService" />
+            </intent-filter>
+        </service>
+        -->
+        <!-- V1.3.0添加的service，负责下载通知的资源 -->
+
+
+        <!-- <service android:name="com.umeng.message.UmengDownloadResourceService" /> -->
+
+
+        <!-- ******************************************百度begin******************************************************* -->
+
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="c9GWus2ErcBl9a2otmOZdHwz" />
+
+        <!-- 百度地图 -->
+        <!--
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name="com.baidu.location.service_v2.2" >
+                </action>
+            </intent-filter>
+        </service>
+        百度地图
+        -->
+        <!-- ******************************************融云begin******************************************************* -->
+        <!--
+        <meta-data
+            android:name="RONG_CLOUD_APP_KEY"
+            android:value="z3v5yqkbvwu70" />
+ 
+        <service android:name="io.rong.imlib.RongService" />
+ 
+ 
+        <activity
+            android:name="io.rong.imkit.RongActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:pathPrefix="/conversationsetting/"
+                    android:scheme="rong" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:path="/grouplist"
+                    android:scheme="rong" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:path="/conversationgrouplist"
+                    android:scheme="rong" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:pathPrefix="/friend/"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="io.rong.imkit.RongSingleActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:path="/conversationlist"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="io.rong.imkit.RongSecActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:pathPrefix="/conversation/"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="io.rong.voipkit.activity.CallSideActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="io.rong.voipkit.activity.CalledSideActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="io.rong.voipkit.calledSideActivity.action" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.aimowei.dianai"
+                    android:path="/calledsideactivity"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        -->
+        <!--
+        <service
+            android:name="io.rong.imkit.service.RongIMService"
+            android:enabled="true"
+            android:exported="false"
+            android:priority="1000" >
+        </service>
+        <service
+            android:name="io.rong.imlib.push.PushService"
+            android:process="io.rong.push" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="io.rong.push" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="io.rong.imlib.push.CommandService"
+            android:process="io.rong.push" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="io.rong.command" />
+            </intent-filter>
+        </service>
+        -->
+        <!--
+        <receiver
+            android:name="io.rong.imlib.push.PushReceiver"
+            android:process="io.rong.push" >
+            <intent-filter>
+                <action android:name="io.rong.imlib.action.push.heartbeat" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="io.rong.imlib.push.PushMessageReceiver" >
+            <intent-filter>
+                <action android:name="io.rong.push.message" />
+            </intent-filter>
+        </receiver>
+        -->
+        <!-- ******************************************融云end******************************************************* -->
+        <!--
+        <activity
+            android:name="com.aimowei.Activity.ChooseCity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.Exit"
+            android:theme="@style/MyDialogStyle" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.Input"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.Login"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.WeiboDetail"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ChanllengeDetail"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ActivityDetail"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.MainTopRightDialog"
+            android:theme="@style/MyDialogStyleTop" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.PublishActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.MyActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.MyChanllenge"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.MyFundActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.QRCode"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.FundActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.BrowserActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.Settings"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ChangePassword"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ClearMessage"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.PublishChanllenge"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.PublishWeibo"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.Resume"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.Rank"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ImagePagerActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.MainActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        -->
+        <!--
+        <activity
+            android:name="com.aimowei.Activity.SplashActivity"
+            android:theme="@style/Slide_in_out" >
+             <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        -->
+        <!--
+        <activity
+            android:name="com.aimowei.Activity.Register"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.MyGuideViewActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.PhoneFindBack"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ChooseChangeWay"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.shang.photo.activity.PublishWeibo"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.shang.photo.activity.ImageGridActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.shang.photo.activity.TestPicActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/Slide_in_out" />
+        <activity
+            android:name="com.shang.photo.activity.PhotoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Slide_in_out" />
+        <activity
+            android:name="com.shang.photo.activity.AlbumActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Select_Photo" >
+        </activity>
+        <activity
+            android:name="com.shang.photo.activity.ImageFile"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.shang.photo.activity.ShowAllPhoto"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.shang.photo.activity.GalleryActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.CaptureActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.CreateARImageActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.videorecord.StartARecordActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.videorecord.VideoPlayerActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.schedule.ScheduleActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.AllCommunityActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.CommunityNotify"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.CommunityDetail"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.AccountSecurity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        <activity
+            android:name="com.aimowei.Activity.ValidateActivity"
+            android:theme="@style/Slide_in_out" >
+        </activity>
+        -->
+        <!-- 主要 activity -->
+        <activity android:name="com.aimowei.Activity.garbage.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.aimowei.Activity.garbage.MainActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.login_function.LoginActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.MyCreditActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.home_function.TwoDimensionSearchActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.shopping_function.ShoppSearchActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.information_function.EventArrangementActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.information_function.GarbagePutRecordActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.information_function.GarbagePutQueryActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.information_function.GarbageSortingQueryActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.information_function.LoginLogQueryActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.information_function.RankingListActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.MyTwoDimensionActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.UpdateMyInfoActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.UpdatePasswordActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.ConsultActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.SuggestActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.setting_function.ViewSettingActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.ApplyVolunteerActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.MessageManagementActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.SelectDateActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.setting_function.AboutActivity" />
+        <activity android:name="com.aimowei.Activity.garbage.setting_function.ConnectUsActivity" />
+        <activity
+            android:name="com.aimowei.Activity.garbage.zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity android:name="com.aimowei.Activity.garbage.mycenter_function.SettingActivity" />
+
+        <!-- Update Activitys End -->
+        <!-- 友盟手动更新 -->
+        <!-- Update Activitys Start -->
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+
+        <!-- Caution! Do not change this app key. It is only for demo usage. -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="55d5bfece0f55aa4d8002a28" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="garbageHUQ" >
+        </meta-data>
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" >
+        </service>
+
+        <!-- 
+        
+        
+        友盟消息推送 
+        
+        
+        
+        
+        -->
+        <!-- 监听通知点击或者忽略处理的广播 -->
+<receiver
+    android:name="com.umeng.message.NotificationProxyBroadcastReceiver"
+    android:exported="false" >
+</receiver>
+
+<!-- 监听开机运行、网络连接变化、卸载的广播 -->
+<receiver
+    android:name="com.umeng.message.SystemReceiver"
+    android:process=":push" >
+    <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+    </intent-filter>
+    <intent-filter>
+        <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+    </intent-filter>
+    <intent-filter>
+        <action android:name="android.intent.action.PACKAGE_REMOVED" />
+        <data android:scheme="package" />
+    </intent-filter>
+</receiver>
+
+<!-- 监听消息到达的广播 -->
+<receiver
+    android:name="com.umeng.message.MessageReceiver"
+     android:exported="false" 
+   android:process=":push" >
+    <intent-filter>
+        <action android:name="org.agoo.android.intent.action.RECEIVE" />
+    </intent-filter>
+</receiver>
+
+<!-- 监听宿主选举的广播 -->
+<receiver
+    android:name="com.umeng.message.ElectionReceiver"  
+     android:process=":push" >
+    <intent-filter>
+        <action android:name="org.agoo.android.intent.action.ELECTION_RESULT_V4" />
+        <category android:name="umeng" />
+    </intent-filter>
+</receiver>
+
+<!-- 监听注册的广播 -->
+<!-- 【应用包名】字符串需要替换成本应用的应用包名 -->
+<receiver
+    android:name="com.umeng.message.RegistrationReceiver"
+    android:exported="false" >
+    <intent-filter>
+        <action android:name="com.aimowei.garbage.intent.action.COMMAND" />
+    </intent-filter>
+</receiver>
+<receiver android:name="com.umeng.message.UmengMessageBootReceiver" >
+    <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+    </intent-filter>
+</receiver>
+<!-- Umeng的长连服务，用来建立推送的长连接的 -->
+<!-- 【应用包名】字符串需要替换成本应用的应用包名 -->
+<service
+    android:name="com.umeng.message.UmengService"
+    android:label="PushService"
+    android:exported="true"
+    android:process=":push" >
+    <intent-filter>
+        <action android:name="com.aimowei.garbage.intent.action.START" />
+    </intent-filter>
+    <intent-filter>
+        <action android:name="com.aimowei.garbage.intent.action.COCKROACH" />
+    </intent-filter>
+    <intent-filter>
+        <action android:name="org.agoo.android.intent.action.PING_V4" />
+    <category android:name="umeng" />
+    </intent-filter>
+</service>
+
+<!-- Umeng的消息接收服务 -->
+<service android:name="com.umeng.message.UmengIntentService" 
+    android:process=":push" />
+
+<!-- Umeng的消息路由服务 -->
+<service 
+    android:name="com.umeng.message.UmengMessageIntentReceiverService"
+    android:process=":push" 
+    android:exported="true" >
+    <intent-filter>
+        <action android:name="org.android.agoo.client.MessageReceiverService" />
+    </intent-filter>
+    <intent-filter>
+        <action android:name="org.android.agoo.client.ElectionReceiverService" />
+    </intent-filter>
+</service>
+
+<!-- v2.4.1添加的Service，Umeng的消息接收后的处理服务 -->
+<service android:name="com.umeng.message.UmengMessageCallbackHandlerService" 
+    android:exported="false">
+    <intent-filter>
+        <action android:name="com.umeng.messge.registercallback.action" />
+    </intent-filter>
+    <intent-filter>
+        <action android:name="com.umeng.message.unregistercallback.action"/>
+    </intent-filter>
+    <intent-filter>
+        <action android:name="com.umeng.message.message.handler.action"/>
+    </intent-filter>
+    <intent-filter>
+        <action android:name="com.umeng.message.autoupdate.handler.action"/>
+    </intent-filter>
+</service>
+
+<!-- V1.3.0添加的service，负责下载通知的资源 -->
+<service android:name="com.umeng.message.UmengDownloadResourceService" />
+
+<!-- V2.5.0添加的Service，用于本地通知 -->
+<!-- 如果不使用本地通知，可以注释掉本地通知服务的配置 -->
+<service android:name="com.umeng.message.local.UmengLocalNotificationService" 
+android:exported="false" />
+<meta-data
+    android:name="UMENG_MESSAGE_SECRET"
+    android:value="3b2bb3cac539bb57d39ebd15d53fd528" >
+</meta-data>
+    </application>
+
+</manifest>

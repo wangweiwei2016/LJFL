@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="umeng_common_action_info_exist">这个应用已经在下载列表中</string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_action_pause">暂停</string>
+    <string name="umeng_common_action_continue">继续</string>
+    <string name="umeng_common_action_cancel">取消</string>
+	<string name="umeng_common_download_notification_prefix">下载: </string>
+	<string name="umeng_common_pause_notification_prefix">暂停: </string>
+	<string name="umeng_common_start_download_notification">下载开始。</string>
+	<string name="umeng_common_start_patch_notification">Patch start.</string>
+	<string name="umeng_common_network_break_alert">请确保你网络连接成功,下载失败</string>
+	<string name="umeng_common_download_failed">下载失败! </string>
+	<string name="umeng_common_download_finish">下载完成,点击安装应用.</string>
+	<string name="umeng_common_patch_finish">Patch finished,click to install it.</string>
+	<string name="umeng_common_silent_download_finish">新版本已经准备好了,点击去安装.</string>
+	<string name="umeng_common_icon">icon</string>
+</resources>

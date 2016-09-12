@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent" >
+
+	<ImageView
+	    android:id="@+id/imageView_label"
+	    android:layout_width="@dimen/width_45_80"
+	    android:layout_height="@dimen/width_45_80"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_margin="@dimen/width_5_80"
+	    android:background="@color/transparent"
+	    android:contentDescription="@string/str_default"
+	    android:src="@drawable/garbagetype0" />
+
+	<TextView
+	    android:id="@+id/textView_label"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerVertical="true"
+	    android:layout_margin="@dimen/width_5_80"
+	    android:layout_toRightOf="@+id/imageView_label"
+	    android:background="@color/transparent"
+	    android:gravity="center"
+	    android:text="@string/str_default"
+	    android:textSize="@dimen/Two_word" />
+
+	<ImageView
+	    android:id="@+id/imageView_flag"
+	    android:layout_width="@dimen/width_20_80"
+	    android:layout_height="@dimen/width_20_80"
+	    android:layout_alignBottom="@+id/imageView_label"
+	    android:layout_alignParentRight="true"
+	    android:layout_alignTop="@+id/imageView_label"
+	    android:layout_marginRight="@dimen/width_20_80"
+	    android:contentDescription="@string/str_default"
+	    android:src="@drawable/pic_garbageopen" />
+
+</RelativeLayout>

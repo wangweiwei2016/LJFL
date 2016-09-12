@@ -1,0 +1,90 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TabHost01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg1" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <include
+                android:id="@+id/rl_title"
+                layout="@layout/activity_top" />
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/width_10_80"
+                android:layout_marginRight="@dimen/width_10_80"
+                android:layout_marginTop="@dimen/height_20_80" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="@dimen/height_2_80"
+                android:layout_marginLeft="@dimen/width_10_80"
+                android:layout_marginRight="@dimen/width_10_80"
+                android:layout_weight="1000" >
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="horizontal" >
+
+                    <com.aimowei.Activity.garbage.ui.RefreshListView
+                        android:id="@+id/lv_1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2" >
+                    </com.aimowei.Activity.garbage.ui.RefreshListView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <com.aimowei.Activity.garbage.ui.RefreshListView
+                        android:id="@+id/lv_2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2" >
+                    </com.aimowei.Activity.garbage.ui.RefreshListView>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+        <!-- 进度条和重试按钮,可复用 -->
+
+        <ProgressBar
+            android:id="@+id/progressBar_loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/height_240_80"
+            android:visibility="visible" />
+        <!-- 要编辑时设为可见 -->
+
+        <Button
+            android:id="@+id/button_retry"
+            android:layout_width="@dimen/width_80_80"
+            android:layout_height="@dimen/height_40_80"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/height_240_80"
+            android:background="@drawable/button1seletor"
+            android:text="刷新"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/four_word"
+            android:visibility="visible" />
+        <!-- 要编辑时设为可见 -->
+    </RelativeLayout>
+
+</TabHost>

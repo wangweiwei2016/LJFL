@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="little_word_size">14sp</dimen>
+    <dimen name="main_word_size">17sp</dimen>
+    <dimen name="medium_word_size">12sp</dimen>
+    <dimen name="min_word_size">10sp</dimen>
+    <dimen name="save_cancel">13sp</dimen>
+    <dimen name="title_word_size">23sp</dimen>
+    <dimen name="warning_word_size">9sp</dimen>
+</resources>

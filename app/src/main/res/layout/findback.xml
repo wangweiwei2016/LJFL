@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8.5"
+        android:background="@color/bg"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="@dimen/width_100_80"
+            android:layout_height="@dimen/height_30_80"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/width_2_80"
+            android:layout_marginTop="@dimen/width_5_80"
+            android:src="@drawable/logo" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:clickable="true"
+        android:scaleType="matrix"
+       />
+
+
+        <LinearLayout
+            style="@style/layout_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_14_80"
+            android:background="#ffffff"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/phone_num"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/width_5_80"
+                android:layout_weight="20"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="请输入您的手机号"
+                android:inputType="phone"
+                android:singleLine="true"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textCursorDrawable="@drawable/color_cursor"
+                android:textSize="@dimen/main_word_size" />
+        </LinearLayout>
+
+          <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:clickable="true"
+        android:scaleType="matrix"
+       />
+
+
+        <LinearLayout
+            style="@style/layout_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_14_80"
+            android:background="#ffffff"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/check_code"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/width_5_80"
+                android:layout_weight="20"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="请输验证码"
+                android:singleLine="true"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textCursorDrawable="@drawable/color_cursor"
+                android:textSize="@dimen/main_word_size" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:src="@drawable/vertical_split_line" />
+
+            <TextView
+                android:id="@+id/time_send"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="10"
+                android:background="@color/blue"
+                android:gravity="center"
+                android:paddingLeft="@dimen/width_3_80"
+                android:text="点击获取"
+                android:textColor="@color/white"
+                android:textSize="@dimen/main_word_size" />
+        </LinearLayout>
+
+          <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:clickable="true"
+        android:scaleType="matrix"
+       />
+
+
+        <LinearLayout
+            style="@style/layout_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_12_80"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <EditText
+                android:id="@+id/invate_num"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/width_5_80"
+                android:layout_weight="20"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="请输入邀请码"
+                android:singleLine="true"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textSize="@dimen/main_word_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/goal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_5_80"
+            android:layout_marginTop="@dimen/width_5_80"
+            android:background="@color/bg"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|bottom"
+                android:layout_marginRight="@dimen/width_5_80"
+                android:layout_marginTop="@dimen/width_5_80"
+                android:text="如有其它问题请联系客服QQ：2419854652"
+                android:textColor="@color/blue"
+                android:textSize="@dimen/little_word_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/width_5_80"
+        android:layout_weight="0.5"
+        android:clickable="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/width_5_80"
+        android:layout_weight="0.5"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_14_80"
+        android:layout_marginBottom="20dp"
+        android:background="@color/orange"
+        android:gravity="center"
+        android:text="下一步"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/title_word_size" />
+
+</LinearLayout>

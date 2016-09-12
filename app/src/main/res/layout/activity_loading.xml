@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gabage_login"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+
+    <LinearLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/rl_title"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/height_30_80"
+        android:gravity="center_vertical"
+        android:padding="@dimen/height_30_80" >
+
+        <TextView
+            android:id="@+id/login_user_input"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+          android:textSize="@dimen/Two_word"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:text="@string/login_label_username"
+            android:textColor="@color/textColor" />
+
+        <EditText
+            android:id="@+id/username_edit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/login_password_input"
+            android:layout_alignTop="@+id/login_user_input"
+            android:layout_marginTop="@dimen/height_4_80"
+            android:background="@drawable/login_editbox"
+            android:ems="10"
+            android:textSize="@dimen/Two_word"
+            android:hint="请输入帐号"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/login_password_input"
+            style="@style/normalText"
+            android:textSize="@dimen/Two_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/username_edit"
+            android:layout_marginTop="@dimen/height_2_80"
+            android:text="@string/login_label_password"
+            android:textColor="@color/textColor" />
+
+        <EditText
+            android:id="@+id/password_edit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/login_password_input"
+            android:layout_marginTop="@dimen/height_4_80"
+            android:background="@drawable/login_editbox"
+            android:hint="请输入密码"
+            android:inputType="textPassword"
+            android:password="true"
+            android:textSize="@dimen/Two_word"
+            android:singleLine="true" />
+
+        <LinearLayout
+            android:id="@+id/relativeLayout2"
+            android:layout_width="fill_parent"
+            android:layout_marginTop="@dimen/height_15_80"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/cb_remerber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/btn_login"
+                android:layout_alignBottom="@+id/btn_login"
+                android:layout_alignLeft="@+id/password_edit"
+                android:paddingLeft="@dimen/width_30_80"
+                android:text="记住密码"
+                android:textSize="@dimen/three_word"
+                android:textColor="@color/textColor" />
+
+            <Button
+                android:id="@+id/btn_login"
+               android:layout_width="@dimen/width_100_80"
+                android:layout_height="@dimen/height_35_80"
+                android:layout_marginLeft="@dimen/width_30_80"
+                android:background="@drawable/button1seletor"
+                 
+                android:onClick="login"
+            
+          android:text="登录"
+          android:textSize="@dimen/four_word"
+                android:textColor="#000000" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

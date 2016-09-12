@@ -1,0 +1,176 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+<Button
+        android:layout_width="@dimen/width_100_80"
+                android:layout_height="@dimen/height_35_80"
+        
+       android:layout_marginBottom="@dimen/height_40_80"
+      android:layout_alignParentBottom="true"
+      android:layout_alignParentLeft="true"
+      android:layout_marginLeft="@dimen/width_40_80"
+         android:background="@drawable/button1seletor"
+               
+        android:gravity="center"
+       android:id="@+id/btn_unlogin"
+        android:text="注销"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word" />
+  <Button
+            android:id="@+id/btn_exit"
+            android:layout_width="@dimen/width_100_80"
+                android:layout_height="@dimen/height_35_80"
+           android:layout_marginBottom="@dimen/height_40_80"
+      android:layout_alignParentBottom="true"
+      android:layout_alignParentRight="true"
+      android:layout_marginRight="@dimen/width_40_80"
+           android:background="@drawable/button1seletor"
+                
+            android:gravity="center"
+            android:onClick="exit"
+            android:text="退出"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/four_word" />
+
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+     android:layout_below="@+id/rl_title"
+      android:gravity="center_horizontal"
+      android:orientation="vertical" >
+ <View
+                android:layout_marginTop="@dimen/height_20_80"
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+   
+            <TextView
+        android:id="@+id/tv_mycreadit"
+        android:layout_width="fill_parent"
+                      android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+        android:layout_height="@dimen/height_50_80"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rl_title"
+ android:drawableRight="@drawable/jiantou1_pressed"
+       android:onClick="share"
+      
+        android:clickable="true"
+        android:drawableLeft="@drawable/share1"
+      
+       android:gravity="left|center_vertical"
+
+        android:text="         推荐给朋友"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+      <View
+            
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+     <TextView
+        android:id="@+id/tv_mycreadit"
+        android:layout_width="fill_parent"
+                      android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+        android:layout_height="@dimen/height_50_80"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rl_title"
+ android:drawableRight="@drawable/jiantou1_pressed"
+       android:onClick="update"
+      
+        android:clickable="true"
+        android:drawableLeft="@drawable/checkupdate"
+       
+       android:gravity="left|center_vertical"
+
+        android:text="         检查更新"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+      <View
+            
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+    
+      <TextView
+        android:id="@+id/tv_mycreadit"
+        android:layout_width="fill_parent"
+               android:layout_marginLeft="@dimen/width_30_80"      
+                android:layout_marginRight="@dimen/width_20_80"
+        android:layout_height="@dimen/height_50_80"
+        android:layout_alignParentLeft="true"
+       
+ android:drawableRight="@drawable/jiantou1_pressed"
+       android:onClick="cleanCache"
+      
+        android:clickable="true"
+        android:drawableLeft="@drawable/cleancache"
+        
+       android:gravity="left|center_vertical"
+
+        android:text="         清理缓存"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" 
+        
+        />
+    
+    
+
+
+
+     
+    <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dip"
+          android:background="@color/blue1" />
+      
+       <TextView
+          android:id="@+id/tv_connect_us"
+          android:layout_width="fill_parent"
+          android:layout_height="@dimen/height_50_80"
+          android:layout_alignParentLeft="true"
+          android:layout_below="@+id/tv_consult"
+            android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+          android:clickable="true"
+          android:drawableLeft="@drawable/st_contect"
+          android:drawableRight="@drawable/jiantou1_pressed"
+          android:gravity="left|center_vertical"
+          android:text="         联系我们"
+          android:textColor="@color/textColor"
+          android:textSize="@dimen/Two_word" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dip"
+          android:background="@color/blue1" />
+
+      <TextView
+          android:id="@+id/tv_about"
+          android:layout_width="fill_parent"
+          android:layout_height="@dimen/height_50_80"
+            android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+          android:clickable="true"
+          android:drawableLeft="@drawable/st_about"
+          android:drawableRight="@drawable/jiantou1_pressed"
+       android:gravity="left|center_vertical"
+          android:text="         关于"
+          android:textColor="@color/textColor"
+          android:textSize="@dimen/Two_word" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dip"
+          android:background="@color/blue1" />
+  </LinearLayout>
+
+</RelativeLayout>

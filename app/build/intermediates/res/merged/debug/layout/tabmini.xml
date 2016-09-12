@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/height_40_80"
+   
+ >
+ <!--  android:background="@drawable/background_login1"
+    -->
+    <TextView
+        
+        android:id="@+id/tab_label"
+        android:layout_width="@dimen/width_100_80"
+        android:layout_height="@dimen/height_30_80"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:textColor="@color/tabmin_color"
+        android:textSize="@dimen/Two_word"
+        />
+
+</RelativeLayout>

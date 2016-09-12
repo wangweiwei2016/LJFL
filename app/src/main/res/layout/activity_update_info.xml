@@ -1,0 +1,160 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+       android:background="@drawable/bg1"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/activity_top" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/rl_title"
+        android:layout_margin="@dimen/height_15_80"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="@dimen/height_4_80" >
+<LinearLayout
+            
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/login_old_input"
+                style="@style/normalText"
+
+             android:src="@drawable/yonghuming"
+                   android:layout_width="@dimen/width_40_80"
+                android:layout_height="@dimen/width_40_80"
+                android:textColor="@color/textColor" />
+        
+        <TextView
+            android:id="@+id/tv_user_name"
+            style="@style/normalText"
+            android:textSize="@dimen/Two_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+          android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_2_80"
+            android:text="用户：滨水社区泉水湾一期二号楼906"
+            android:textColor="@color/textColor" />
+        </LinearLayout>
+        <LinearLayout
+             android:layout_marginTop="@dimen/height_20_80"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_huzhu"
+                style="@style/normalText"
+
+             android:src="@drawable/huzhu"
+                   android:layout_width="@dimen/width_40_80"
+                android:layout_height="@dimen/width_40_80"
+                android:textColor="@color/textColor" />
+
+        <TextView
+            android:id="@+id/tv_huzhu_name"
+            style="@style/normalText"
+            android:textSize="@dimen/Two_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_10_80"
+            android:text="户主姓名：张三"
+            android:textColor="@color/textColor" />
+        </LinearLayout>
+        <LinearLayout
+            
+            android:layout_width="fill_parent"
+             android:layout_marginTop="@dimen/height_20_80"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/login_old_input"
+                style="@style/normalText"
+
+             android:src="@drawable/phone2"
+                   android:layout_width="@dimen/width_40_80"
+                android:layout_height="@dimen/width_40_80"
+                android:textColor="@color/textColor" />
+        
+       
+
+        <EditText
+            android:id="@+id/et_phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/width_10_80"
+            android:background="@drawable/login_editbox"
+            android:hint="请输入手机号"
+            android:layout_marginRight="@dimen/width_10_80"
+            android:inputType="phone"
+            android:textSize="@dimen/Two_word"
+            android:singleLine="true"
+            android:text="152454" />
+</LinearLayout>
+<LinearLayout
+            
+            android:layout_width="fill_parent"
+             android:layout_marginTop="@dimen/height_20_80"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/login_old_input"
+                style="@style/normalText"
+
+             android:src="@drawable/email2"
+                   android:layout_width="@dimen/width_40_80"
+                android:layout_height="@dimen/width_40_80"
+                android:textColor="@color/textColor" />
+        
+        
+
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/login_password_input"
+            android:background="@drawable/login_editbox"
+            android:hint="请输入电子邮件"
+            android:layout_marginRight="@dimen/width_10_80"
+              android:layout_marginLeft="@dimen/width_10_80"
+            android:inputType="textEmailAddress"
+            android:singleLine="true"
+            android:textSize="@dimen/Two_word"
+            android:text="111@qq.com" />
+</LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_title"
+           android:layout_marginTop="@dimen/height_20_80"
+          
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_cancel"
+              android:layout_width="@dimen/width_200_80"
+                android:layout_height="@dimen/height_35_80"
+               android:background="@drawable/button1seletor"
+              android:textSize="@dimen/four_word"
+                
+                 android:onClick="update"
+                android:text="修改"
+                android:textColor="@color/textColor" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

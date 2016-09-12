@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_suggest.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_suggest.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_picker_list_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\app_picker_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_garbage_put.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_garbage_put.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item01.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item01.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_spinner_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\setting_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shop_list.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\shop_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_date.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_select_date.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_spinner.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\search_spinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_management.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_message_management.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_community_spinner.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_community_spinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_garbage_sorting.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_garbage_sorting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_gv_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\list_gv_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\load.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_dimension.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_two_dimension.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item02.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item02.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_event_arrangment_listview_main.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_event_arrangment_listview_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_us.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_connect_us.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_center.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_my_center.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_list_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_qr_code.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\my_qr_code.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\week.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_dialog_loading.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\ui_dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_simple_spinner_dropdown_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\my_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_garbage_put_recorder.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_garbage_put_recorder.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item03.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item03.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apply_volunteer_list.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\apply_volunteer_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottom.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_simple_spinner_self_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\my_simple_spinner_self_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_toast.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\my_toast.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apply_volunteer.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_apply_volunteer.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_view.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\load_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading_video.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\view_loading_video.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranking_list.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_ranking_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_adview.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_toast.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\ui_toast.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_time_line.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_time_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabmini1.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\tabmini1.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_shop.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_search_shop.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_garbagesorting_group.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_garbagesorting_group.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\findback.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\findback.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\search_book_contents.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_setting.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_view_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\formcustomspinner.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\formcustomspinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_info.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_update_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\month.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\month.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_garbagesorting_item.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_garbagesorting_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_password.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_update_password.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\binding.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\binding.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weibo_detail.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\weibo_detail.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_management_list.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\message_management_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_garbage_put_listview_main.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_garbage_put_listview_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_security.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\account_security.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_change_way.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\choose_change_way.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information_search.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_information_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event_arrangement.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_event_arrangement.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_consult.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_consult.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabmini.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\tabmini.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_custommenu.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\item_custommenu.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_dimension_search.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_two_dimension_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mycreadit.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\layout\\activity_mycreadit.xml"
+    }
+]

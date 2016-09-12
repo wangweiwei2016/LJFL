@@ -1,0 +1,134 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+
+    <Spinner
+        android:id="@+id/spinner_community"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_title"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:layout_marginBottom="@dimen/height_5_80"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/login_editbox"
+        android:gravity="center"
+        android:text="@string/str_default"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/height_10_80" />
+
+    <Button
+        android:id="@+id/button_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinner_community"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_10_80"
+        android:text="@string/str_default"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word" />
+
+    <Button
+        android:id="@+id/button_lastday"
+        android:layout_width="@dimen/width_50_80"
+        android:layout_height="@dimen/width_50_80"
+        android:layout_below="@id/spinner_community"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_10_80"
+        android:layout_toLeftOf="@id/button_date"
+        android:background="@drawable/garbageputquery_lastday"
+        android:textColor="@color/textColor" />
+
+    <Button
+        android:id="@+id/button_nextday"
+        android:layout_width="@dimen/width_50_80"
+        android:layout_height="@dimen/width_50_80"
+        android:layout_below="@id/spinner_community"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_10_80"
+        android:layout_toRightOf="@id/button_date"
+        android:background="@drawable/garbageputquery_nextday"
+        android:textColor="@color/textColor" />
+
+    <com.aimowei.Activity.garbage.ui.RefreshListView
+        android:id="@+id/listView_showmain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_date"
+        android:layout_marginTop="@dimen/height_10_80"
+        android:background="@color/transparent"
+        android:divider="#000000"
+        android:dividerHeight="1sp"
+        android:fadeScrollbars="false"
+        android:textColor="@color/textColor"
+        android:visibility="visible" />
+    <!-- 进度条和重试按钮,可复用 -->
+
+    <ProgressBar
+        android:id="@+id/progressBar_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/height_140_80"
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+
+    <Button
+        android:id="@+id/button_retry"
+        android:layout_width="@dimen/width_80_80"
+        android:layout_height="@dimen/height_40_80"
+        android:layout_below="@id/rl_title"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/height_140_80"
+        android:background="@drawable/button1seletor"
+        android:text="@string/str_retrylabel"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word"
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+
+    <TextView
+        android:id="@+id/textView_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/str_default"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:id="@+id/view_detailpicback"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e0000000" >
+
+        <Button
+            android:id="@+id/button_back"
+            android:layout_width="@dimen/width_200_80"
+            android:layout_height="@dimen/height_35_80"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/width_50_80"
+            android:background="@drawable/button1seletor"
+            android:text="@string/str_backlabel"
+            android:textSize="@dimen/four_word" />
+
+        <com.aimowei.Activity.garbage.ui.ZoomImageView
+            android:id="@+id/imageView_showdetail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/button_back"
+            android:contentDescription="@string/str_default"
+            android:scaleType="centerCrop"
+            android:visibility="visible" >
+        </com.aimowei.Activity.garbage.ui.ZoomImageView>
+    </RelativeLayout>
+
+</RelativeLayout>

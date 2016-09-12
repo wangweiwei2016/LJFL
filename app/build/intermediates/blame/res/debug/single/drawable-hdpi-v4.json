@@ -1,0 +1,1422 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_club_all.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_club_all.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\checkbox_1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_six_focused.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_six_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_btn.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\login_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_logo4.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\pic_logo4.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_bg.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\head_bg.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_listview_headview_red_arrow.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\common_listview_headview_red_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_zhuye.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_me_zhuye.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_gengduo1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_gengduo1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_back_btn_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plubin_camera_del_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_icon_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\home_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_single_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suggest.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\suggest.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_me_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_selected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiantou2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jiantou2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren11.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren11.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_frame.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\input_frame.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\twoweima.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\twoweima.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_laoshi.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_laoshi.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_album_back.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_n.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_n.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_found_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a22.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\a22.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\penguin.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\penguin.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_down.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button_down.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_community_no.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_community_no.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hua.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\hua.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\refresh_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_next.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_right_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\alert_btn_right_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_relase.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_relase.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inf_event.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\inf_event.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_four_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_four_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\login_bg.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gabage_login.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\gabage_login.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trans_bg.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\trans_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonxiala2.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\buttonxiala2.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\twoweima8.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\twoweima8.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_disabled.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_back_btn.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_five_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_five_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_top_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_tongxue.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_tongxue.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\es1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\es1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ranking.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ranking.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_title_home_default.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ic_title_home_default.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock_open_icon.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\lock_open_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren01.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren01.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_selected.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_bg_selected.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_apply_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_apply_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_six_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_six_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_close.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_close.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren06.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren06.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_xiaoqizi.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\iconfont_xiaoqizi.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_example_common_banner_promotion.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_example_common_banner_promotion.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg1.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pull.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_pull.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_top_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button111.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button111.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lajitoufang.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\lajitoufang.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_selected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_ratingbar_full_filled.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_ratingbar_full_filled.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_example_handler.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_example_handler.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\st_contect.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\st_contect.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_clear_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_clear_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssplash.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ssplash.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty_photo.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren13.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren13.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_two_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_two_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuanshi.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\zuanshi.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ep_tab_his_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ep_tab_his_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_xie.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_xie.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_found.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_five_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_five_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h_broker_card_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\h_broker_card_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_bottom_bar.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_bottom_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shugan1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\shugan1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\email2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\email2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren18.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren18.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_xiaoqiz2i.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\iconfont_xiaoqiz2i.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_preview_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mycenter_icon_click.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\mycenter_icon_click.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_edit_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\login_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_blue1.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_blue1.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tail.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_tail.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren17.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren17.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_common_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_common_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_shanchu.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_shanchu.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_two_focused.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_two_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren03.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren03.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_credit.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\my_credit.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_single_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_message_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_message_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_community_selected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_community_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_cancel_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_jia.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_jia.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_cancel.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pull_up.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button_pull_up.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_example_two_tab_left.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_example_two_tab_left.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shugan2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\shugan2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_found_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_focused.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_four_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_four_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vertical_split_line.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\vertical_split_line.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yonghuming.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\yonghuming.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_clud_logo.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_clud_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg_normal2.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_normal2.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_compat_separator.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionbar_compat_separator.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopping_icon_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\shopping_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_bottom.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_bottom.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down_arrow.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\down_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_on.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button_on.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_compat_logo.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionbar_compat_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_club_scanning.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_club_scanning.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ge.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ge.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_cancel_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbb.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\buttonbb.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suganno.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\suganno.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_check_icon.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\sign_check_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_unselected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\dot_unselected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_blue.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_blue.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_send_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifen_2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifen_2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\administrator.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\administrator.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkupdate.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\checkupdate.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\alert_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiala.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\xiala.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren08.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren08.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_translucent_transtangular.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_translucent_transtangular.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pull_down.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_pull_down.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_filenum.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_triangle.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_triangle.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\checkbox_2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_man.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_man.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren02.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren02.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock_icon1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\lock_icon1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_middle_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sugan2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\sugan2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock_icon.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\lock_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rc_emotion_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\rc_emotion_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_send_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_preview_unselected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_unselected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_down_.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\pre_down_.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_management.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\message_management.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pb_mycredit.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\pb_mycredit.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_not_selected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_not_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vertical_bar.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\vertical_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren12.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren12.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_choose_back.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_y.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_y.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_hh.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_hh.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_message_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_message_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_preview_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inf_laji_sorting.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\inf_laji_sorting.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_resume.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_resume.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_four_focused.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_four_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonxiala.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\buttonxiala.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inf_lajitoufang.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\inf_lajitoufang.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren09.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren09.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_del_unfocused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_del_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\share1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_orange.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\point_orange.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_help.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_help.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_line_point.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\img_line_point.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\st_about.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\st_about.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_six_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_six_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_special_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_special_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button112.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button112.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_compat_background.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionbar_compat_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_five_focused.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_five_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_logo_big.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_logo_big.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_guanyu.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_me_guanyu.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\st_jieshe1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\st_jieshe1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\information_icon_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\information_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifen_1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifen_1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weight.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\weight.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_location.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_location.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mycreadit.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\mycreadit.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\toast.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_single_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\alert_btn_single_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_info_icon.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\sign_info_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\es2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\es2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbb1.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\buttonbb1.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_xinxi.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_xinxi.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rc_ic_notice.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\rc_ic_notice.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_title_bg.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\spinner_title_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dengpao.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\dengpao.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_woman.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_woman.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\st_consult.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\st_consult.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\st_jieshe.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\st_jieshe.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_up_black.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_up_black.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_title_bar.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_title_bar.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren07.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren07.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huzhu.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\huzhu.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_selected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_down_.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\next_down_.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\st_suggest.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\st_suggest.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\erweima.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\erweima.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_home_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_common_bg_f.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_common_bg_f.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_two_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_two_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_me_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pull_down.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button_pull_down.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_bottom_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_kebiao.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_kebiao.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mycenter_icon_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\mycenter_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\home_bg.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\title_bar.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gerenzhongxin.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\gerenzhongxin.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifendengji6.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifendengji6.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_bg.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\loading_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button11.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\button11.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_enter_portrait.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_enter_portrait.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren10.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren10.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_zhanghu.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_me_zhanghu.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_choosed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifen_3.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifen_3.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white_btn.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\white_btn.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\short_line.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\short_line.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_title_share_default.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ic_title_share_default.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren16.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren16.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren19.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren19.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_bottom_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_editbox.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\login_editbox.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_no_pictures.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiantou7.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jiantou7.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_normal.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_home_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_time.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_time.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_header.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_header.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopping_icon_click.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\shopping_icon_click.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_enter_name.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_enter_name.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash1.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\splash1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_left_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_icon_click.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\home_icon_click.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_no.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_no.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_selected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\dot_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_jieshu.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_jieshu.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\firework.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\firework.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_translucent_square.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\bg_translucent_square.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inf_lajitoufangchaxun.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\inf_lajitoufangchaxun.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\twoweima3.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\twoweima3.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_bg2.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bg2.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green_bg_unselected.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\green_bg_unselected.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifenziti2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifenziti2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_no.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_no.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifen_5.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifen_5.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\system_manage.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\system_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_time.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_time.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_example_banner_bg.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_example_banner_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_edit_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\login_edit_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_ratingbar_full_empty.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_ratingbar_full_empty.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\es3.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\es3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\phone2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_send_unselected.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_unselected.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jifen_4.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jifen_4.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_my_shijian.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_my_shijian.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_middle_pressed.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cleancache.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\cleancache.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_back_indicator.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\actionbar_back_indicator.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\twoweima2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\twoweima2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_white.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\point_white.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_logo_big_subtitle.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_logo_big_subtitle.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\touxiang.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\touxiang.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading1.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\loading1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trashcan.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\trashcan.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_return.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_return.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_click.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_click.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inf_ranking.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\inf_ranking.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren15.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren15.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tick.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\tick.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\information_icon_click.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\information_icon_click.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_me.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_lock.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_lock.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren14.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren14.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_fenxiang.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_square_fenxiang.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\event_query.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\event_query.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a123.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\a123.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gern.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\gern.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g12.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\g12.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rc_ic_atfriend_search.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\rc_ic_atfriend_search.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon111garbage.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon111garbage.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_down.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\popup_down.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.jpg",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_focused.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren05.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\geren05.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_example_two_tab_right.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_example_two_tab_right.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mycredit2.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\mycredit2.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_down.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_down.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\laji_sorting.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\laji_sorting.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiantou2_pressed.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\jiantou2_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_title_refresh_default.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ic_title_refresh_default.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_special_normal.9.png",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_special_normal.9.png"
+    }
+]

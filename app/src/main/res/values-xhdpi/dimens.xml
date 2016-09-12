@@ -1,0 +1,11 @@
+<resources>
+<dimen name="main_word_size">13sp</dimen>
+<dimen name="title_word_size">19sp</dimen>
+<dimen name="warning_word_size">12sp</dimen>
+<dimen name="save_cancel">16sp</dimen>
+<dimen name="little_word_size">11sp</dimen>  
+<dimen name="min_word_size">10sp</dimen>
+<dimen name="medium_word_size">12sp</dimen>
+
+
+</resources>

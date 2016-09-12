@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+   
+        android:layout_below="@id/rl_title"
+        >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+           
+            
+            android:orientation="vertical" >
+
+            <View
+                android:layout_marginTop="@dimen/height_20_80"
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+
+            <TextView
+                android:id="@+id/tv_select_huodong"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_50_80"
+                android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:clickable="true"
+                android:drawableLeft="@drawable/inf_event"
+                android:drawableRight="@drawable/jiantou1_pressed"
+                android:gravity="left|center_vertical"
+                android:text="         活动查询"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_50_80"
+                android:clickable="true"
+                    android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:drawableLeft="@drawable/inf_ranking"
+                android:drawableRight="@drawable/jiantou1_pressed"
+               android:gravity="left|center_vertical"
+                    android:id="@+id/tv_select_paihangbang"
+                android:text="         排行榜查询"
+                 android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+           
+     
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+               <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_50_80"
+ android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:clickable="true"
+                android:drawableLeft="@drawable/inf_lajitoufang"
+                android:drawableRight="@drawable/jiantou1_pressed"
+           android:gravity="left|center_vertical"
+                   android:id="@+id/tv_select_lajitoufang_recorder"
+                android:text="         垃圾投放记录"
+                  android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+               <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_50_80"
+                  android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:clickable="true"
+                android:drawableLeft="@drawable/inf_lajitoufangchaxun"
+                android:drawableRight="@drawable/jiantou1_pressed"
+          android:gravity="left|center_vertical"
+                    android:id="@+id/tv_select_lajitoufang_put"
+                android:text="         垃圾投放查询"
+                  android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+               
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+               <!--  android:background="@drawable/bg_btn"-->
+            <TextView
+                  android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_50_80"
+                android:clickable="true"
+                android:drawableLeft="@drawable/inf_laji_sorting"
+                android:drawableRight="@drawable/jiantou1_pressed"
+   
+                android:gravity="left|center_vertical"
+              android:id="@+id/tv_select_lajifenlei"
+                android:text="         垃圾分类查询"
+                  android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+
+        
+             <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+               <!--  android:background="@drawable/bg_btn"-->
+         
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

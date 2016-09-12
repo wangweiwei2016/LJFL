@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\com.umeng.message.lib_v2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b16ba4b393ff072ba84cc5c922db5800e7b9e3a3">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\com.umeng.message.lib_v2.5.0_8d21a817071ee661ccb0231a5edf746a85e14a50.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\fastjson-1.1.28.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc6bbaa6bbecc0fc1c8883a3aae377f7e6416c69">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\fastjson-1.1.28_0f010df9df69539b7365753e2c6099ab64b1ab8a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3_659f5d5249d7c74e8c94267b67aff1137e5d668c.jar" />
+    </item>
+    <item
+        jar="D:\ProgramFiles\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_da29af4cdb154a91678790b3be128d9e527d81e6.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\gson-2.2.4_4bdf16c588ee034599c4d23163c8cca82363c4cb.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1_53551384f296b92944c5f3e6b33a69aad414e416.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bad7cc10606ac997fd3764710507cc3d8d9957b">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_3627e36dfd9f45690d2ddad021c5e64f81236388.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_e79e375e9771c6b08e86f14de66171db1cac5638.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\zxing_9487e242c6e4778793127f9eeebbef5ae1e249f5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\commons-lang3-3.0-beta.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c3e5478c615df58fe04f946d4167b7cbd286c203">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\commons-lang3-3.0-beta_f3eaffe1c1beac07c5448c076ad6997c7ca50c88.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\A_IN\app\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="E:\AndroidProject\A_IN\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_90c8b379a7932fbc6c0c227722a8a63cc4ceabe6.jar" />
+    </item>
+
+</items>

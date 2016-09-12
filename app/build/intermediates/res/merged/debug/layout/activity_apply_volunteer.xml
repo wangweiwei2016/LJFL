@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/rl_title"
+            layout="@layout/activity_top" />
+
+        <com.aimowei.Activity.garbage.ui.RefreshListView
+            android:id="@+id/lv_111"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="2" >
+        </com.aimowei.Activity.garbage.ui.RefreshListView>
+    </LinearLayout>
+    <!-- 进度条和刷新按钮,可复用 -->
+
+    <ProgressBar
+        android:id="@+id/progressBar_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_220_80"
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_180_80"
+        android:text="o(︶︿︶)o 当前尚无可申请时段"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/button_retry"
+        android:layout_width="@dimen/width_80_80"
+        android:layout_height="@dimen/height_40_80"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_220_80"
+        android:text="刷新"
+        android:background="@drawable/button1seletor"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word"
+        
+        android:visibility="visible" />
+    <!-- 要编辑时设为可见 -->
+
+</RelativeLayout>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/yellow1"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/header" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_20_80"
+            android:layout_marginRight="@dimen/width_20_80"
+            android:layout_marginTop="@dimen/width_20_80"
+            android:background="@drawable/shape_rec_yellow"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:src="@drawable/icon_enter_portrait" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="昵称"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <EditText
+                    android:id="@+id/user_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/word1"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:textSize="@dimen/main_word_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="真实姓名"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <EditText
+                    android:id="@+id/real_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/word1"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:textSize="@dimen/main_word_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="我的大学"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <com.aimowei.spinner.CustomerSpinner
+                    android:id="@+id/university"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textCursorDrawable="@drawable/color_cursor" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="我的手机"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <EditText
+                    android:id="@+id/phone_num"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:inputType="phone"
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/word1"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:textSize="@dimen/main_word_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="验证码"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <EditText
+                    android:id="@+id/check_code"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:inputType="number"
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/word1"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:textSize="@dimen/main_word_size" />
+
+                <TextView
+                    android:id="@+id/time_send"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/width_10_80"
+                    android:background="@color/head_bg"
+                    android:gravity="center"
+                    android:padding="@dimen/width_10_80"
+                    android:text="点击获取"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/main_word_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="密码"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:password="true"
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/word1"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:textSize="@dimen/main_word_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <LinearLayout
+                style="@style/layout_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_15_80"
+                    android:gravity="center"
+                    android:text="重复密码"
+                    android:textColor="@color/word1"
+                    android:textSize="@dimen/main_word_size" />
+
+                <EditText
+                    android:id="@+id/conform_password"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/width_10_80"
+                    android:layout_weight="20"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint=""
+                    android:password="true"
+                    android:singleLine="true"
+                    android:textAlignment="center"
+                    android:textColor="@color/word1"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:textSize="@dimen/main_word_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/width_15_80"
+                android:layout_marginRight="@dimen/width_15_80"
+                android:background="@color/word1" />
+
+            <Button
+                android:id="@+id/next"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_10_80"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/head_bg"
+                android:gravity="center"
+                android:text="进入哆哆"
+                android:textColor="@color/grey"
+                android:textSize="@dimen/title_word_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

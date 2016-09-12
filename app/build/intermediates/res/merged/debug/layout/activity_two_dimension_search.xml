@@ -1,0 +1,214 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/rl_title"
+        android:layout_marginTop="@dimen/height_10_80"
+        android:orientation="vertical"
+        android:weightSum="10" >
+
+        <LinearLayout
+            android:id="@+id/ll_scan_barcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_20_80"
+            android:gravity="left"
+            android:orientation="horizontal"
+            android:weightSum="10" >
+
+            <ImageView
+                android:layout_width="@dimen/height_40_80"
+                android:layout_height="@dimen/height_40_80"
+                android:layout_marginTop="@dimen/height_4_80"
+                android:src="@drawable/twoweima3" />
+
+            <Button
+                android:id="@+id/btn_scan_barcode"
+                android:layout_width="@dimen/width_100_80"
+                android:layout_height="@dimen/height_35_80"
+                android:layout_marginTop="@dimen/height_4_80"
+                android:background="@drawable/button1seletor"
+                android:text="扫描"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/four_word" />
+
+            <Button
+                android:id="@+id/btn_manal_scan"
+                android:layout_width="@dimen/width_100_80"
+                android:layout_height="@dimen/height_35_80"
+                android:layout_marginLeft="@dimen/width_20_80"
+                android:layout_marginTop="@dimen/height_4_80"
+                android:background="@drawable/button1seletor"
+                android:text="手动输入"
+                android:onClick="input_manal"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/four_word" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/height_50_80"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginRight="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="@dimen/width_40_80"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/width_10_80"
+                android:layout_marginRight="@dimen/width_10_80"
+                android:src="@drawable/user"
+                android:text="用户名："
+                android:textColor="@color/textColor" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/tv_scan_result"
+                    android:layout_width="@dimen/width_200_80"
+                    android:layout_height="@dimen/height_50_80"
+                    android:text=""
+                      android:visibility="invisible" 
+                    android:gravity="center_vertical|left"
+                    android:textColor="@color/textColor"
+
+                    android:textSize="@dimen/Two_word" />
+
+                <EditText
+                    android:id="@+id/et_scan_result"
+                    android:layout_width="@dimen/width_200_80"
+                    android:layout_height="@dimen/height_40_80"
+                    android:hint="请输入用户名"
+                       android:background="@drawable/login_editbox"
+                    android:inputType="text"
+                    android:layout_marginTop="@dimen/height_5_80"
+                    android:textColor="@color/textColor"
+                    android:textSize="@dimen/Two_word"
+                    android:visibility="visible" />
+            </FrameLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="@dimen/width_200_80"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/height_5_80"
+            android:layout_marginLeft="@dimen/width_70_80"
+            android:layout_marginTop="@dimen/height_5_80"
+            android:text="用户名可直接扫描二维码得到,也可手动输入"
+            android:textColor="@color/red"
+            android:textSize="@dimen/three_word" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/height_40_80"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginRight="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="@dimen/width_40_80"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/width_10_80"
+                android:layout_marginRight="@dimen/width_10_80"
+                android:src="@drawable/trashcan"
+                android:text="用户名："
+                android:textColor="@color/textColor" />
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="@dimen/width_200_80"
+                android:layout_height="@dimen/height_40_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:layout_weight="1"
+                android:background="@drawable/login_editbox"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_70_80"
+            android:text="选择垃圾类型"
+            android:textColor="@color/red"
+            android:textSize="@dimen/three_word" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/height_40_80"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="@dimen/width_40_80"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/width_10_80"
+                android:layout_marginRight="@dimen/width_10_80"
+                android:src="@drawable/weight"
+                android:text="用户名："
+                android:textColor="@color/textColor" />
+
+            <EditText
+                android:id="@+id/et_zl_string"
+                android:layout_width="@dimen/width_200_80"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:background="@drawable/login_editbox"
+                android:ems="10"
+                android:hint="请输入重量"
+                android:inputType="numberDecimal"
+                android:textSize="@dimen/Two_word" >
+
+                <requestFocus />
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_30_80"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="kg"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_add_laji"
+                android:layout_width="@dimen/width_200_80"
+                android:layout_height="@dimen/height_35_80"
+                android:background="@drawable/button1seletor"
+                android:onClick="add"
+                
+                android:text="添加"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/four_word" />
+
+          
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

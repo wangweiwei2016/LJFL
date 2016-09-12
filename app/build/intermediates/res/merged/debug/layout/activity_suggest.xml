@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+		android:gravity="center"
+		    android:background="@drawable/bg2"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/height_5_80" >
+      <ImageView
+            android:id="@+id/imageView1"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:layout_width="@dimen/width_30_80"
+            android:layout_height="@dimen/height_40_80"
+            android:src="@drawable/jianyi_img" />    
+
+
+        <TextView
+            android:id="@+id/suggest_textView"
+            android:textColor="@color/textColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/height_20_80"
+			android:textSize="@dimen/Two_word"
+            android:text="@string/str_suggest" />
+
+        <Spinner
+            android:id="@+id/suggest_spinner"
+             android:textColor="@color/textColor"
+            android:layout_marginTop="@dimen/height_20_80"
+            android:background="@drawable/login_editbox"
+            android:layout_width="@dimen/width_140_80"
+            android:layout_height="@dimen/height_40_80"
+           
+             />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/suggest_editText"
+        android:layout_width="@dimen/width_260_80"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/height_20_80"
+        android:layout_weight="1"
+        android:textColor="@color/textColor"
+ 		android:gravity="top|left"
+        android:background="@drawable/login_editbox"
+        android:hint="请输入您的反馈建议，我们将及时回复并不断为您改进"
+        android:ems="13"
+        android:textSize="@dimen/Two_word"
+        android:inputType="textMultiLine" >
+        <requestFocus />
+    </EditText>
+
+    
+    
+     <LinearLayout 
+        android:layout_gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    
+    
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/width_5_80"
+        android:layout_gravity="right"
+        android:textColor="@color/textColor"
+        android:text="限制字数100，剩余字数为:"
+         />
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/width_20_80"
+        android:layout_gravity="right"
+        android:textColor="@color/textColor"
+        android:text="100"
+         />
+
+    </LinearLayout>
+    
+    
+    <Button
+        android:id="@+id/btn_suggest_submit"
+         android:layout_width="@dimen/width_200_80"
+                android:layout_height="@dimen/height_35_80"
+ 
+        android:onClick="suggest"
+        android:layout_marginTop="@dimen/height_20_80"
+        android:layout_marginBottom="@dimen/height_30_80"
+        android:background="@drawable/button1seletor"
+        android:textColor="@color/textColor"
+		android:textSize="@dimen/four_word" 
+        android:text="提交" />
+
+</LinearLayout>

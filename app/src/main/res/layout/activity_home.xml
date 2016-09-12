@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   android:background="@drawable/bg1" 
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/activity_top" />
+
+   <LinearLayout 
+        android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_below="@id/rl_title"
+       >
+
+       <com.aimowei.Activity.garbage.ui.FocusedTextView
+           android:layout_width="match_parent"
+           android:layout_height="@dimen/height_20_80"
+           android:layout_marginLeft="@dimen/width_10_80"
+           android:layout_marginRight="@dimen/width_10_80"
+           android:layout_marginTop="@dimen/height_5_80"
+           android:layout_weight="1"
+           android:ellipsize="marquee"
+           android:singleLine="true"
+           android:text="欢迎登录，积分奖品可以看到各种可兑换的商品，信息查询可查询到相关信息"
+           android:textColor="@color/textColor"
+           android:textSize="@dimen/three_word" />
+       
+ <!--  
+        
+    <TextView
+        android:layout_weight="2"
+        android:id="@+id/tv_two"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_40_80"
+        android:layout_alignParentLeft="true"
+       android:layout_marginTop="@dimen/height_2_80"
+        android:layout_marginLeft="@dimen/width_10_80"
+        android:layout_marginRight="@dimen/width_10_80"
+       
+   
+        android:clickable="true"
+       
+        android:drawableLeft="@drawable/twoweima"
+        android:drawablePadding="0dip"
+        android:gravity="center"
+        android:text="二维码扫描"
+       
+        android:textColor="#000000"
+        android:textSize="@dimen/Two_word" />
+
+    -->
+
+
+            <GridView
+                android:layout_marginTop="@dimen/height_5_80"
+                android:layout_marginLeft="@dimen/width_10_80"
+                android:layout_marginRight="@dimen/width_10_80"
+              android:layout_weight="100"
+                android:id="@+id/gv_home"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                   android:horizontalSpacing = "@dimen/height_2_80"     
+         android:verticalSpacing = "@dimen/height_2_80"   
+                android:numColumns="3"
+                   android:soundEffectsEnabled="true"
+        android:smoothScrollbar="true"  
+        android:stretchMode="columnWidth" 
+        android:background="@android:color/transparent"
+      
+            
+             />
+         
+     
+        
+  
+  </LinearLayout>
+</RelativeLayout>

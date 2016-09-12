@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:background="@drawable/bg2"
+    tools:context=".HomeActivityFragment" >
+<include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+ <ScrollView
+     	android:layout_marginTop="@dimen/height_50_80"
+
+         android:id="@+id/scrollView_showMessages"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         >
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/rl_title"
+    android:layout_centerHorizontal="true"
+    android:gravity="center"
+    android:layout_marginTop="@dimen/height_10_80"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/aboutactivity_img"
+            android:layout_marginTop="@dimen/height_10_80"
+        android:layout_width="@dimen/width_120_80"
+        android:layout_height="@dimen/height_110_80"
+        android:src="@drawable/apptubiao" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/width_22_80"
+        android:layout_marginRight="@dimen/width_22_80"
+        android:layout_marginTop="@dimen/height_10_80"
+        android:text="@string/aboutactivity_text3"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/width_22_80"
+        android:layout_marginRight="@dimen/width_22_80"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:text="@string/splash_version_info"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word" />
+
+ 
+
+    <TextView
+        android:id="@+id/aboutactivity_textView"
+        android:layout_marginLeft="@dimen/width_22_80"
+        android:layout_marginRight="@dimen/width_22_80"
+        android:textSize="@dimen/four_word"
+        android:textColor="@color/textColor"
+            android:layout_marginTop="@dimen/height_30_80"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutactivity_text1" />
+
+    <TextView
+     
+        android:layout_marginLeft="@dimen/width_22_80"
+        android:layout_marginRight="@dimen/width_22_80"
+        android:textSize="@dimen/One_word"
+        android:textColor="@color/textColor"
+            android:layout_marginTop="@dimen/height_50_80"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutactivity_text2" />
+    <TextView
+     
+        android:layout_marginLeft="@dimen/width_22_80"
+        android:layout_marginRight="@dimen/width_22_80"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:textSize="@dimen/One_word"
+        android:textColor="@color/textColor"
+       android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutactivity_text0" />
+
+</LinearLayout>
+</ScrollView>
+
+</RelativeLayout>
+

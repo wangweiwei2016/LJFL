@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\color\\tv_color.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\color\\tv_color.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\color\\tabmin_color.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\color\\tabmin_color.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\color\\calendar_text_selector.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\color\\calendar_text_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\A_IN\\app\\build\\intermediates\\res\\merged\\debug\\color\\custom_calendar_text_selector.xml",
+        "source": "E:\\AndroidProject\\A_IN\\app\\src\\main\\res\\color\\custom_calendar_text_selector.xml"
+    }
+]

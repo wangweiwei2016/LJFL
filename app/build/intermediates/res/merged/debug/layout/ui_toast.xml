@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/background"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical|center_horizontal"
+    android:background="@drawable/btn_bg"
+    android:gravity="center_vertical|center_horizontal"
+    android:minHeight="@dimen/height_15_80"
+    android:minWidth="@dimen/width_90_80"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:background="@drawable/btn_bg"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="10dp" >
+
+        <ImageView
+            android:id="@android:id/icon"
+            android:layout_width="@dimen/width_30_80"
+            android:layout_height="@dimen/width_30_80"
+             android:paddingTop="@dimen/width_5_80"
+            android:src="@drawable/empty_photo" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@android:id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/width_30_80"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:lineSpacingExtra="5.0dp"
+        android:paddingBottom="@dimen/width_5_80"
+        android:paddingTop="@dimen/width_5_80"
+        android:text="操作成功"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" >
+    </TextView>
+
+</LinearLayout>

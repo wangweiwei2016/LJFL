@@ -1,0 +1,33 @@
+<resources>
+
+    <dimen name="main_word_size">24sp</dimen>
+    <dimen name="title_word_size">29sp</dimen>
+    <dimen name="warning_word_size">14sp</dimen>
+    <dimen name="save_cancel">18sp</dimen>
+    <dimen name="little_word_size">19sp</dimen>
+    <dimen name="min_word_size">10sp</dimen>
+    <dimen name="medium_word_size">12sp</dimen>
+    <dimen name="dimen_margin_circle">4dp</dimen>
+    <dimen name="dimen_margin_circle.negative">-4dp</dimen>
+    <dimen name="calendar_day_headers_paddingbottom">4dp</dimen>
+    <dimen name="calendar_month_topmargin">16dp</dimen>
+    <dimen name="calendar_month_title_bottommargin">4dp</dimen>
+    <dimen name="calendar_text_medium">18sp</dimen>
+    <dimen name="calendar_text_small">14sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="standard_padding">8dip</dimen>
+    <dimen name="half_padding">4dip</dimen>
+    <dimen name="ui_10_dip">10dip</dimen>
+      <!-- five_world 是标题字体 tow_word 是大部分主要字体 内容字体，
+      button字体是four_world   小一号字体是 three_word
+       -->
+ 
+ <dimen name="Two_word">20sp</dimen>
+ <dimen name="three_word">14sp</dimen>
+  <dimen name="four_word">18sp</dimen>
+   <dimen name="five_word">24sp</dimen>
+   
+   <dimen name="One_word">12sp</dimen>
+</resources>

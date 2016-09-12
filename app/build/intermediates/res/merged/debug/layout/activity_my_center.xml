@@ -1,0 +1,231 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+     android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+ <ScrollView 
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+         android:layout_below="@+id/rl_title"
+     >
+ <LinearLayout
+ 
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+           android:gravity="center_horizontal"
+            
+            android:orientation="vertical" >
+            
+            <View
+                android:layout_marginTop="@dimen/height_20_80"
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+   
+            <TextView
+        android:id="@+id/tv_mycreadit"
+        android:layout_width="fill_parent"
+                      android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+        android:layout_height="@dimen/height_50_80"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rl_title"
+
+       
+      
+        android:clickable="true"
+        android:drawableLeft="@drawable/mycredit2"
+        android:drawableRight="@drawable/jiantou1_pressed"
+       android:gravity="left|center_vertical"
+
+        android:text="         我的积分"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+      <View
+            
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+ 
+     <TextView
+        android:id="@+id/tv_update_password"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_50_80"
+       
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tv_mycreadit"
+        android:clickable="true"
+   android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+        android:drawableLeft="@drawable/lock_icon"
+        android:drawableRight="@drawable/jiantou1_pressed"
+        android:gravity="left|center_vertical"
+        
+        android:text="         修改密码"
+       android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+       <View
+                
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+     <TextView
+        android:id="@+id/tv_update_preson_info"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_50_80"
+        android:layout_alignLeft="@+id/tv_suggest"
+        android:layout_below="@+id/tv_suggest"
+     
+        android:clickable="true"
+          android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+        android:drawableLeft="@drawable/sign_info_icon"
+        android:drawableRight="@drawable/jiantou1_pressed"
+         android:gravity="left|center_vertical"
+        android:onClick="center_mycredit"
+        android:text="         修改个人信息"
+      android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+       <View
+                
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+     <TextView
+        android:id="@+id/tv_my_two"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_50_80"
+    
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/tv_update_password"
+        android:clickable="true"
+        android:drawableLeft="@drawable/twoweima2"
+        android:drawableRight="@drawable/jiantou1_pressed"
+        android:gravity="left|center_vertical"
+        android:text="         我的二维码"
+          android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+      android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+
+         <View
+           
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+       <TextView
+        android:id="@+id/tv_apply_volunteer"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_50_80"
+         
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tv_my_two"
+        android:clickable="true"
+        android:drawableLeft="@drawable/administrator"
+        android:drawableRight="@drawable/jiantou1_pressed"
+        android:gravity="left|center_vertical"
+        android:text="         申请志愿者"
+         android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+    android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+   <View
+              
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+  <TextView
+        android:id="@+id/tv_message_management"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_50_80"
+    
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tv_apply_volunteer"
+        android:clickable="true"
+        android:drawableLeft="@drawable/message"
+        android:drawableRight="@drawable/jiantou1_pressed"
+        android:gravity="left|center_vertical"
+        android:text="         消息管理"
+       android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+     android:textColor="@color/textColor"
+        android:textSize="@dimen/Two_word" />
+    <View
+               
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+        <TextView
+          android:id="@+id/tv_consult"
+          android:layout_width="fill_parent"
+          android:layout_height="@dimen/height_50_80"
+          android:layout_alignParentLeft="true"
+          android:layout_below="@+id/rl_title"
+          android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+          android:clickable="true"
+          android:drawableLeft="@drawable/st_consult"
+          android:drawableRight="@drawable/jiantou1_pressed"
+           android:gravity="left|center_vertical"
+          android:text="         咨询"
+          android:textColor="@color/textColor"
+          android:textSize="@dimen/Two_word" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dip"
+          android:background="@color/blue1" />
+
+      <TextView
+          android:id="@+id/tv_suggest"
+          android:layout_width="fill_parent"
+          android:layout_height="@dimen/height_50_80"
+          android:layout_alignParentLeft="true"
+          android:layout_below="@+id/tv_consult"
+           android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+          android:clickable="true"
+          android:drawableLeft="@drawable/st_suggest"
+          android:drawableRight="@drawable/jiantou1_pressed"
+          android:gravity="left|center_vertical"
+          android:text="         建议"
+          android:textColor="@color/textColor"
+          android:textSize="@dimen/Two_word" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dip"
+          android:background="@color/blue1" />
+     <TextView
+                android:layout_marginLeft="@dimen/width_30_80"
+                android:layout_marginRight="@dimen/width_20_80"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_50_80"
+                android:clickable="true"
+                android:drawableLeft="@drawable/system_manage"
+                android:drawableRight="@drawable/jiantou1_pressed"
+   
+             android:gravity="left|center_vertical"
+              android:id="@+id/tv_system_management"
+                android:text="         系统管理"
+                  android:textColor="@color/textColor"
+                android:textSize="@dimen/Two_word" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="@color/blue1" />
+    </LinearLayout>
+    
+</ScrollView>
+   
+    
+    
+
+</RelativeLayout>

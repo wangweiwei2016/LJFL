@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/iv_image"
+        android:layout_width="@dimen/width_120_80"
+        android:layout_height="@dimen/height_100_80"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/height_5_80"
+        android:layout_marginLeft="@dimen/width_10_80"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/commodityName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/height_3_80"
+            android:layout_marginTop="@dimen/height_5_80"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:text="test"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+
+        <TextView
+            android:id="@+id/originalIntegral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_5_80"
+            android:text="test"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/three_word" />
+
+        <TextView
+            android:id="@+id/currentIntegral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_5_80"
+            android:text="test"
+            android:textColor="@color/red"
+            android:textSize="@dimen/three_word" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/height_5_80"
+            android:layout_marginLeft="@dimen/width_10_80"
+            android:layout_marginTop="@dimen/height_5_80"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/exchangeNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/three_word" />
+
+            <TextView
+                android:id="@+id/stockNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/width_25_80"
+                android:text="test"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/three_word" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

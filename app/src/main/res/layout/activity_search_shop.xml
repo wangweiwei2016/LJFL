@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    tools:context=".HomeActivityFragment" >
+<include
+        android:id="@+id/rl_title"
+        layout="@layout/activity_top" />
+  <LinearLayout
+      
+      android:id="@+id/ll_sercher"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/rl_title"
+      android:layout_marginTop="@dimen/height_10_80"
+        android:layout_marginBottom="@dimen/height_10_80"
+       >
+
+      <EditText
+          android:id="@+id/et_search"
+          android:layout_width="fill_parent"
+          android:layout_height="@dimen/height_30_80"
+          android:layout_marginLeft="@dimen/width_10_80"
+          android:layout_marginTop="@dimen/height_2_80"
+          
+          android:layout_weight="100"
+     android:background="@drawable/search_bar_edit_selector"
+          android:hint="请输入你要搜索的商品" />
+
+      <ImageButton
+          android:layout_weight="1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="@dimen/width_5_80"
+          android:layout_marginRight="@dimen/width_5_80"
+          android:layout_marginTop="@dimen/height_2_80"
+          android:background="@drawable/menu_search"
+          android:onClick="search" />
+
+     
+  </LinearLayout>
+   <LinearLayout
+      
+      android:id="@+id/ll_sercher1"
+      android:layout_below="@id/ll_sercher"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+   
+     >
+
+          <ListView
+              android:layout_marginLeft="@dimen/width_10_80"
+              android:layout_marginRight="@dimen/width_10_80"
+              android:id="@+id/listView"
+              android:layout_marginBottom="@dimen/height_2_80"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" >
+
+    </ListView>
+        </LinearLayout>
+       
+
+
+
+</RelativeLayout>

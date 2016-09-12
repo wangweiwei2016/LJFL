@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#880099cc"
+        android:orientation="horizontal"
+      >
+
+        <LinearLayout
+            android:id="@+id/ll_menu_my_home"
+            android:layout_width="0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.20"
+            android:clickable="true"
+            android:onClick="myhome"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_my_home"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_4_80"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/menu_home_released" />
+
+            <TextView
+                android:id="@+id/menu_my_home_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="首页"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_menu_myshopping"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.20"
+            android:clickable="true"
+            android:onClick="myshop"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_myshopping_img"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_4_80"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/menu_shopping_cart_released" />
+
+            <TextView
+                android:id="@+id/menu_myshoppoing_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="积分商城"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_menu_my_information"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.20"
+            android:clickable="true"
+            android:onClick="myinformation"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_my_information_img"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_4_80"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/menu_brand_released" />
+
+            <TextView
+                android:id="@+id/menu_my_information_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="信息查询"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_menu_my_acount"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.20"
+            android:clickable="true"
+            android:onClick="myacount"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_my_acount_img"
+                android:layout_width="wrap_content"
+              android:layout_height="@dimen/height_4_80"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/menu_my_center_pressed" />
+
+            <TextView
+                android:id="@+id/menu_my_center_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="个人中心"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_menu_my_setting"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.20"
+            android:clickable="true"
+            android:onClick="mysetting"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_my_setting_img"
+                android:layout_width="wrap_content"
+              android:layout_height="@dimen/height_4_80"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/menu_setting" />
+
+            <TextView
+                android:id="@+id/menu_my_setting_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="设置"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

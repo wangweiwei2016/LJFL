@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+   
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/titlelayout" >
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/titlelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bg_bottom" >
+
+        <RadioGroup
+            android:paddingTop="@dimen/height_2_80"
+            android:id="@+id/tab_menu"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/height_50_80"
+         
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/title1"
+                style="@style/tab_style_home"
+                android:checked="true"
+                
+                android:textSize="@dimen/three_word"
+                android:drawableTop="@drawable/tab_home_selector"
+                android:text="首页"
+                android:textColor="#000000" />
+
+            <RadioButton
+                android:id="@+id/title2"
+                android:textColor="#000000"
+                style="@style/tab_style_shop"
+                android:textSize="@dimen/three_word"
+                  
+                android:drawableTop="@drawable/tab_shop_selector"
+                android:text="积分奖品" />
+
+            <RadioButton
+                android:id="@+id/title3"
+                android:textColor="#000000"
+                style="@style/tab_style_information"
+                android:textSize="@dimen/three_word"
+                android:drawableTop="@drawable/tab_information_selector"
+              
+                android:text="信息查询" />
+
+            <RadioButton
+                android:id="@+id/title4"
+                android:textColor="#000000"
+                
+                style="@style/tab_style_my_center"
+                 android:text="个人中心"
+                android:textSize="@dimen/three_word"
+              android:drawableTop="@drawable/tab_mycenter_selector"
+             
+               />
+
+     
+        </RadioGroup>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="@string/searchHint"
+    android:includeInGlobalSearch="true"
+    android:label="@string/searchLable"
+    android:searchButtonText="string resource"
+    android:searchSettingsDescription="sdf"
+    android:searchSuggestAuthority="com.android.cbin.SearchSuggestionSampleProvider"
+    android:searchSuggestIntentAction="android.intent.action.SEARCH"
+    android:searchSuggestSelection=" ? "
+    android:icon="@drawable/next_"  
+    android:searchSuggestThreshold="1" >
+
+</searchable>

@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:paddingBottom="@dimen/height_25_80"
+    android:paddingTop="@dimen/height_25_80" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout_putTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/width_25_80"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imageView_putTime"
+            android:layout_width="@dimen/width_25_80"
+            android:layout_height="@dimen/height_25_80"
+            android:contentDescription="@string/str_default"
+            android:src="@drawable/eventarrangement_time" />
+
+        <TextView
+            android:id="@+id/label_putTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_garbage_puttimelabel"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+
+        <TextView
+            android:id="@+id/textView_putTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_default"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_putAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/linearLayout_putTime"
+        android:layout_below="@id/linearLayout_putTime"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imageView_putAddress"
+            android:layout_width="@dimen/width_25_80"
+            android:layout_height="@dimen/height_25_80"
+            android:contentDescription="@string/str_default"
+            android:src="@drawable/garbageputquery_address" />
+
+        <TextView
+            android:id="@+id/label_putAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_garbage_putaddresslabel"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+
+        <TextView
+            android:id="@+id/textView_putAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_default"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_manager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/linearLayout_putTime"
+        android:layout_below="@id/linearLayout_putAddress"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imageView_putManager"
+            android:layout_width="@dimen/width_25_80"
+            android:layout_height="@dimen/height_25_80"
+            android:contentDescription="@string/str_default"
+            android:src="@drawable/garbageputquery_manager" />
+
+        <TextView
+            android:id="@+id/label_putManager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_garbage_putmanagerlabel"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+
+        <TextView
+            android:id="@+id/textView_putManager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_default"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/Two_word" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_detailPic"
+        android:layout_width="@dimen/width_200_80"
+        android:layout_height="@dimen/height_35_80"
+        android:layout_below="@id/linearLayout_manager"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/height_5_80"
+        android:background="@drawable/button1seletor"
+        android:text="@string/str_detailpiclabel"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/four_word" />
+
+</RelativeLayout>

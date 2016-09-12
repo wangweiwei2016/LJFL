@@ -1,0 +1,127 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".HomeActivityFragment" >
+
+    <include
+        android:id="@+id/rl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/activity_top" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/rl_title" >
+
+        <ProgressBar
+            android:id="@+id/pbar_loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/width_140_80"
+            android:layout_marginTop="@dimen/height_180_80"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/button_retry_next"
+            android:layout_width="@dimen/width_80_80"
+            android:layout_height="@dimen/height_40_80"
+            android:layout_marginLeft="@dimen/width_120_80"
+            android:layout_marginTop="@dimen/height_180_80"
+            android:background="@drawable/button1seletor"
+            android:onClick="try_next"
+            android:text="@string/str_retrylabel"
+            android:textSize="@dimen/four_word"
+            android:visibility="invisible" />
+
+        <LinearLayout
+            android:id="@+id/ll_mycreadit"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/height_400_80"
+            android:layout_marginTop="@dimen/width_30_80"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/sugan_no"
+                android:layout_width="@dimen/width_142_80"
+                android:layout_height="@dimen/height_110_80"
+                android:layout_marginLeft="@dimen/width_20_80"
+                android:src="@drawable/suganno" />
+
+            <ImageView
+                android:id="@+id/sugan_deep"
+                android:layout_width="@dimen/width_142_80"
+                android:layout_height="@dimen/height_110_80"
+                android:layout_marginLeft="@dimen/width_20_80"
+                android:src="@drawable/sugan2"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/ll_mycreadit"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/height_400_80"
+                android:orientation="horizontal" >
+
+                <ListView
+                    android:id="@+id/lv_list"
+                    android:layout_width="@dimen/width_220_80"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:cacheColorHint="@null"
+                    android:divider="@null" >
+                </ListView>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/height_240_80"
+                    android:layout_weight="2"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_mycredit_info3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                       
+                        android:layout_marginRight="@dimen/width_10_80"
+                      android:layout_weight="4"
+                        android:gravity="center_vertical"
+                        android:lineSpacingMultiplier="1.5"
+                        android:text=""
+                      android:layout_alignParentTop="true"
+                        android:textColor="@color/textColor"
+                        android:textSize="@dimen/Two_word" />
+
+                    <TextView
+                        android:id="@+id/tv_mycredit_info"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:layout_below="@+id/tv_mycredit_info3"
+                         android:layout_weight="1"
+                        android:text="当前积分"
+                        android:textColor="@color/textColor"
+                        android:textSize="@dimen/Two_word" >
+                    </TextView>
+
+                    <TextView
+                        android:id="@+id/tv_mycredit_info2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/height_10_80"
+                        android:gravity="left"
+                        android:text="总积分"
+                        android:layout_below="@+id/tv_mycredit_info"
+                         android:layout_weight="1"
+                        android:textColor="@color/textColor"
+                        android:textSize="@dimen/Two_word" >
+                    </TextView>
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>
